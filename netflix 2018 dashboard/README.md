@@ -52,7 +52,7 @@ Scroll up to see the full dashboard layout!
 ## 👩‍💻 About Me
 
 **Sanyogita R** | VIT Bhopal | Aspiring Data Analyst  
-🔗 [LinkedIn](https://linkedin.com/in/sanyogitar) | 🔗 [GitHub](https://github.com/SanyogitaR)
+ 🔗 [GitHub](https://github.com/SanyogitaR)
 
 
 

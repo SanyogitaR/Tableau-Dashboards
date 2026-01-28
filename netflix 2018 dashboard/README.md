@@ -2,7 +2,7 @@
 
 **Interactive Tableau visualization analyzing Netflix's 2018 global movie & TV content distribution!**
 
-![Netflix Dashboard Screenshot](dashboard.jpg)
+![Netflix Dashboard Screenshot](dashboard.png)
 
 ## 📊 Dashboard Overview
 
